@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SharpCoinMiner", "SharpCoinMiner\SharpCoinMiner.csproj", "{FA9D9B1F-80D6-4EDD-84B0-3A94F258F954}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpChain", "SharpChain\SharpChain.csproj", "{E5EB1410-1142-40ED-8816-FAB5BDAD67BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA9D9B1F-80D6-4EDD-84B0-3A94F258F954}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA9D9B1F-80D6-4EDD-84B0-3A94F258F954}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA9D9B1F-80D6-4EDD-84B0-3A94F258F954}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA9D9B1F-80D6-4EDD-84B0-3A94F258F954}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5EB1410-1142-40ED-8816-FAB5BDAD67BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5EB1410-1142-40ED-8816-FAB5BDAD67BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5EB1410-1142-40ED-8816-FAB5BDAD67BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5EB1410-1142-40ED-8816-FAB5BDAD67BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1D45FD7-9577-4A23-949F-6836BE9872C2}
+	EndGlobalSection
+EndGlobal

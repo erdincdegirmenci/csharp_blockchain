@@ -1,0 +1,8 @@
+C:\Users\ErdincDegirmenci\Desktop\Medium-Makale\BlockChain\BlockChainApp\SharpMiner\SharpChain\bin\Debug\netcoreapp3.1\SharpCoinChain.deps.json
+C:\Users\ErdincDegirmenci\Desktop\Medium-Makale\BlockChain\BlockChainApp\SharpMiner\SharpChain\bin\Debug\netcoreapp3.1\SharpCoinChain.dll
+C:\Users\ErdincDegirmenci\Desktop\Medium-Makale\BlockChain\BlockChainApp\SharpMiner\SharpChain\bin\Debug\netcoreapp3.1\SharpCoinChain.pdb
+C:\Users\ErdincDegirmenci\Desktop\Medium-Makale\BlockChain\BlockChainApp\SharpMiner\SharpChain\obj\Debug\netcoreapp3.1\SharpCoinChain.AssemblyInfoInputs.cache
+C:\Users\ErdincDegirmenci\Desktop\Medium-Makale\BlockChain\BlockChainApp\SharpMiner\SharpChain\obj\Debug\netcoreapp3.1\SharpCoinChain.AssemblyInfo.cs
+C:\Users\ErdincDegirmenci\Desktop\Medium-Makale\BlockChain\BlockChainApp\SharpMiner\SharpChain\obj\Debug\netcoreapp3.1\SharpCoinChain.csproj.CoreCompileInputs.cache
+C:\Users\ErdincDegirmenci\Desktop\Medium-Makale\BlockChain\BlockChainApp\SharpMiner\SharpChain\obj\Debug\netcoreapp3.1\SharpCoinChain.dll
+C:\Users\ErdincDegirmenci\Desktop\Medium-Makale\BlockChain\BlockChainApp\SharpMiner\SharpChain\obj\Debug\netcoreapp3.1\SharpCoinChain.pdb

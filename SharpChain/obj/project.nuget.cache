@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qlXaHInPJzfHKuh67bxIZKtKr4hPpme0ZQcEZJpdkzSIQ5DCxkS5SSBIm88Kzl8/qfMkEq0kyFnr2km5N/Gh8g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ErdincDegirmenci\\Desktop\\Medium-Makale\\BlockChain\\BlockChainApplication\\SharpCoinMiner\\SharpChain\\SharpChain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ErdincDegirmenci\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

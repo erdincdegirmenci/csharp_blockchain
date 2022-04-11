@@ -1,0 +1,16 @@
+C:\Users\laptop\source\repos\SharpMiner\SharpMiner\obj\Debug\netcoreapp3.1\SharpMiner.csprojAssemblyReference.cache
+C:\Users\laptop\source\repos\SharpMiner\SharpMiner\obj\Debug\netcoreapp3.1\SharpMiner.AssemblyInfoInputs.cache
+C:\Users\laptop\source\repos\SharpMiner\SharpMiner\obj\Debug\netcoreapp3.1\SharpMiner.AssemblyInfo.cs
+C:\Users\laptop\source\repos\SharpMiner\SharpMiner\obj\Debug\netcoreapp3.1\SharpMiner.csproj.CoreCompileInputs.cache
+C:\Users\laptop\source\repos\SharpMiner\SharpMiner\bin\Debug\netcoreapp3.1\SharpMiner.exe
+C:\Users\laptop\source\repos\SharpMiner\SharpMiner\bin\Debug\netcoreapp3.1\SharpMiner.deps.json
+C:\Users\laptop\source\repos\SharpMiner\SharpMiner\bin\Debug\netcoreapp3.1\SharpMiner.runtimeconfig.json
+C:\Users\laptop\source\repos\SharpMiner\SharpMiner\bin\Debug\netcoreapp3.1\SharpMiner.runtimeconfig.dev.json
+C:\Users\laptop\source\repos\SharpMiner\SharpMiner\bin\Debug\netcoreapp3.1\SharpMiner.dll
+C:\Users\laptop\source\repos\SharpMiner\SharpMiner\bin\Debug\netcoreapp3.1\SharpMiner.pdb
+C:\Users\laptop\source\repos\SharpMiner\SharpMiner\bin\Debug\netcoreapp3.1\SharpChain.dll
+C:\Users\laptop\source\repos\SharpMiner\SharpMiner\bin\Debug\netcoreapp3.1\SharpChain.pdb
+C:\Users\laptop\source\repos\SharpMiner\SharpMiner\obj\Debug\netcoreapp3.1\SharpMiner.csproj.CopyComplete
+C:\Users\laptop\source\repos\SharpMiner\SharpMiner\obj\Debug\netcoreapp3.1\SharpMiner.dll
+C:\Users\laptop\source\repos\SharpMiner\SharpMiner\obj\Debug\netcoreapp3.1\SharpMiner.pdb
+C:\Users\laptop\source\repos\SharpMiner\SharpMiner\obj\Debug\netcoreapp3.1\SharpMiner.genruntimeconfig.cache
